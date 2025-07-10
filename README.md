@@ -57,7 +57,7 @@ All pricing plans use Stripe Payment Links for secure checkout.
 
 ## 💬 Intercom Integration
 
-Live chat is enabled via Intercom. Replace the widget ID (`mvbj6qcv`) in `index.html` with your own Intercom App ID if needed.
+Live chat is enabled via Intercom. Replace the widget ID (`--------`) in `index.html` with your own Intercom App ID if needed.
 
 ---
 
@@ -74,7 +74,7 @@ You can deploy this on:
 
 ## 📞 Contact
 
-**Email:** [support@remotefix.com](mailto:support@remotefix.com)  
+**Email:** [support@epictechai@gmail.com](mailto:support@Epictechai@gmail.com)  
 **Phone:** 1-800-REMOTE-FIX
 
 ---
